@@ -96,7 +96,7 @@ section.hero {
       width: 100%;
     }
 
-    & img[src*='ellipse'] {
+    & img[src*='Ellipse'] {
       width: 94%;
       top: 3%;
       left: 3%;
@@ -105,14 +105,14 @@ section.hero {
       animation: slideIn 3s 200ms ease forwards;
     }
 
-    & img[src*='patins'] {
+    & img[src*='patins-image'] {
       z-index: 1;
 
       transform: translateX(200%);
       animation: slideIn 3s ease forwards;
     }
 
-    & img[src*='stars-1'] {
+    & img[src*='Stars 1'] {
       max-width: 5.5rem;
       top: 30%;
       z-index: 0;
@@ -122,7 +122,7 @@ section.hero {
       animation: slideIn 2s 800ms ease forwards, appear 100ms 800ms forwards;
     }
 
-    & img[src*='stars-2'] {
+    & img[src*='Stars 2'] {
       max-width: 2.5rem;
       right: 0;
       bottom: 35%;
